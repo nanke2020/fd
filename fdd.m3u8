@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:9
+#EXTINF:8.074733,
+https://sf1-cdn-tos.douyinstatic.com/obj/douyin-open-platform/6dc1183556653f069e57b66ba8fda226
+#EXT-X-ENDLIST
