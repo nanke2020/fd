@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:6
+#EXTINF:5.038333,
+https://tx2.a.yximgs.com/bs2/adcarsku/skue6c34b33-bc4e-4c9f-b0a3-b199dfed9f04.png
+#EXTINF:3.003000,
+https://tx2.a.yximgs.com/bs2/adcarsku/sku16bedfe4-52cc-4bb9-a38e-d66c5bd845b6.png
+#EXT-X-ENDLIST
